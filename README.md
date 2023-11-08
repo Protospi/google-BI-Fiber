@@ -81,4 +81,27 @@ Here are the three key project documents produced for this Google Fiber Customer
 ---
 
 
-## Next Steps
+## Source Datasets
+
+Google sheets markets 1, 2, 3 tables:
+
+* [Market 1](https://docs.google.com/spreadsheets/d/1jVyA06t9G7grA7Bvi4qfZTGxBJ5St7bBTOREPwxBkVQ/edit?usp=sharing)
+
+* [Market 2](https://docs.google.com/spreadsheets/d/19TZ_WOEjdHSKm6QFBnlIbBbhYVesHbdGzMkf_qSdf4A/edit?usp=sharing&resourcekey=0-cm8EaTm4AwHwtSRD4G-JiA)
+
+* [Market 3](https://docs.google.com/spreadsheets/d/1grPaIYrYQqm35M33EQon1gzO-tacVKTgXJKKwUKFnNE/edit?usp=sharing)
+
+
+## Target Tables
+
+* First the 2 tables were ingested in Bigquery big query using upload local csv feature:
+    * `market1`
+    * `market2`
+    * `market3`
+
+* The query to unify the tables is in the repo as `unify_tables.sql` that generate the target table:
+    * `data`
+
+    
+
+
