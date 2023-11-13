@@ -102,6 +102,10 @@ Google sheets markets 1, 2, 3 tables:
 * The query to unify the tables is in the repo as `unify_tables.sql` that generate the target table:
     * `data`
 
-    
+## Tableau Dashboard
+
+![Public Tableau Google Fiber Attendance](https://public.tableau.com/app/profile/pedro.loes/viz/GoogleFiber_16997422096980/Story1_1)
+
+The executive summary is in the repo file `executive_summary.md`
 
 
