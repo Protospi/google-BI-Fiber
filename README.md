@@ -104,7 +104,7 @@ Google sheets markets 1, 2, 3 tables:
 
 ## Tableau Dashboard
 
-![Public Tableau Google Fiber Attendance](https://public.tableau.com/app/profile/pedro.loes/viz/GoogleFiber_16997422096980/Story1_1)
+[Public Tableau Google Fiber Attendance](https://public.tableau.com/app/profile/pedro.loes/viz/GoogleFiber_16997422096980/Story1_1)
 
 The executive summary is in the repo file `executive_summary.md`
 
